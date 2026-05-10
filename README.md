@@ -10,11 +10,11 @@ O **Rotinas++** resolve a inconveniência de alterar manualmente o volume do sma
 ## 📂 Documentação (Arquitetura e Design)
 Todo o planejamento estrutural e visual do software foi documentado e está disponível na pasta `/docs`:
 
-1. [Documento de Visão](docs/1_documento_de_visao.md)
-2. [Especificação de Requisitos (RF e RNF)](docs/2_especificacao_de_requisitos.md)
-3. [Modelagem do Banco de Dados](docs/3_modelagem_banco_de_dados.md)
-4. [Diagrama de Classes (UML / MVC)](docs/4_diagrama_de_classes_uml.md)
-5. [Prototipagem de Telas (UI/UX)](docs/5_prototipo_telas.md)
+1. [Documento de Visão](docs/documento_de_visao.md)
+2. [Especificação de Requisitos (RF e RNF)](docs/especificacao_de_requisitos.md)
+3. [Modelagem do Banco de Dados](docs/modelagem_banco_de_dados.md)
+4. [Diagrama de Classes (UML / MVC)](docs/diagrama_de_classes_uml.md)
+5. [Prototipagem de Telas (UI/UX)](docs/prototipo_telas.md)
 
 ## 🛠️ Tecnologias e Ferramentas (Stack)
 - **Plataforma:** Android Nativo
